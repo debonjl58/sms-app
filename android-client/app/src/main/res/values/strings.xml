@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tagala</string>
+    <string name="status_waiting">En attente de SMS...</string>
+    <string name="status_connected">Connect&#233; au serveur</string>
+    <string name="status_disconnected">D&#233;connect&#233;</string>
+    <string name="button_connect">Se Connecter</string>
+    <string name="button_create_account">Cr&#233;er mon compte</string>
+    <string name="tagala_logo_description">Logo Tagala - Immigration Services</string>
+</resources>
