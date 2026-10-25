@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF000000</color>
+    <color name="tagala_black">#FF000000</color>
+    <color name="tagala_button_disabled">#FF6A6A6A</color>
+    <color name="tagala_button_text_disabled">#FFD8D8D8</color>
+    <color name="tagala_gold">#FFFFC33D</color>
+    <color name="tagala_white">#FFFFFFFF</color>
+    <string name="app_name">Tagala</string>
+    <string name="button_connect">Se Connecter</string>
+    <string name="button_create_account">Créer mon compte</string>
+    <string name="status_connected">Connecté au serveur</string>
+    <string name="status_disconnected">Déconnecté</string>
+    <string name="status_waiting">En attente de SMS...</string>
+    <string name="tagala_logo_description">Logo Tagala - Immigration Services</string>
+    <style name="Theme.SMSForwarder" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/tagala_black</item>
+        <item name="android:navigationBarColor">@color/tagala_black</item>
+        <item name="android:windowBackground">@color/tagala_black</item>
+        <item name="colorPrimary">@color/tagala_gold</item>
+        <item name="colorPrimaryDark">@color/tagala_black</item>
+        <item name="colorAccent">@color/tagala_gold</item>
+    </style>
+    <style name="Widget.Tagala.DisabledButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:alpha">0.62</item>
+        <item name="backgroundTint">@color/tagala_button_disabled</item>
+        <item name="android:textColor">@color/tagala_button_text_disabled</item>
+        <item name="cornerRadius">18dp</item>
+    </style>
+</resources>
