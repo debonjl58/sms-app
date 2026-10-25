@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color tagala_black
+color tagala_button_disabled
+color tagala_button_text_disabled
+color tagala_gold
+color tagala_white
+drawable ic_launcher_foreground
+drawable tagala_logo
+id btnConnect
+id btnCreateAccount
+id statusText
+id tagalaLogo
+id updateProgress
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_connect
+string button_create_account
+string status_connected
+string status_disconnected
+string status_waiting
+string tagala_logo_description
+style Theme.SMSForwarder
+style Widget.Tagala.DisabledButton
