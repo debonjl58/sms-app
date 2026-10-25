@@ -1,0 +1,17 @@
+"""
+CONFIGURATION MODIFIABLE AVANT LANCEMENT
+"""
+
+# === CONFIGURATION RÉSEAU ===
+SERVER_HOST = "0.0.0.0"
+SERVER_PORT = 9090
+
+# === WEBSOCKET ===
+WEBSOCKET_PING_INTERVAL = 20
+WEBSOCKET_PING_TIMEOUT = 10
+
+# === PERSISTANCE ===
+DATABASE_PATH = "sms_history.db"
+ENABLE_PERSISTENCE = True  # CORRIGÉ : PERSISTANCE → PERSISTENCE
+# Jeton partagé avec le client Android. Remplacez cette valeur par un secret long et aléatoire.
+AUTH_TOKEN = "1X6zYLPLBE2xiSQETMEl0AFevPQ_3au6AvjmRow2HFgghcE4c"
