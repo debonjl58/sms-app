@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] /home/dealhack/.gradle/caches/transforms-3/c1d2a236b741873f3a73d36ef2c882af/transformed/viewbinding-8.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /home/dealhack/.gradle/caches/transforms-3/f00623dbf6f5851fa01661ba258ac9d9/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/dealhack/.gradle/caches/transforms-3/54586c3fd6e4cdaaa619be7b4633c87f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/dealhack/.gradle/caches/transforms-3/0e4b87110de3748f8a89a0ba33c8bd36/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/dealhack/.gradle/caches/transforms-3/c7556cb60140854d7a35290cdfa31b30/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/dealhack/.gradle/caches/transforms-3/023a2724f30c914043fd29d759a27f4f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a8fcabdc6c819027bce712389edb3564/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/dealhack/.gradle/caches/transforms-3/cc75ed66ebaff2d0e9bc26739e887795/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/dealhack/.gradle/caches/transforms-3/c995a71e08e61949e1f085048f643a41/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/dealhack/.gradle/caches/transforms-3/d3c49ea6cbaeab2a1f2c5d185499eeaf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dealhack/.gradle/caches/transforms-3/5982eddde742efd5a098c076398e7883/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a48100704f933a4aaed26096e55815e1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d4ce974795c6e5ee90e19b34485af992/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dealhack/.gradle/caches/transforms-3/ec09efcd2cfb94f0dc9e564d00965f7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dealhack/.gradle/caches/transforms-3/57495068ffdfa6eeeef43c48914bcc71/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dealhack/.gradle/caches/transforms-3/d2e2acf89270599e0a4655b5b23302c2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dealhack/.gradle/caches/transforms-3/64251acf4ef4f95d22b4529e6840dbce/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dealhack/.gradle/caches/transforms-3/9f17e86a37ef9ec49afdd5cb298a514c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dealhack/.gradle/caches/transforms-3/f9928dd2a91699c5162758639050f526/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/dealhack/.gradle/caches/transforms-3/82f07b935aff9428a5ed933519326cce/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/dealhack/.gradle/caches/transforms-3/377c1b849c228f276db6cc263b4f4917/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/dealhack/.gradle/caches/transforms-3/9a2d3836bb83ffa79a4b0c61760c68bd/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6776041365c344426d0b3f6a0b7402b/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/dealhack/.gradle/caches/transforms-3/4c96a56ac06654d895291e46532ce422/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c74aaa918d2af219289592903f5037f7/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/dealhack/.gradle/caches/transforms-3/0caa166bb19d412ad27c4a40409ea85f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/dealhack/.gradle/caches/transforms-3/11182a2495ffabe5e2622fbdd1c0178e/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/dealhack/.gradle/caches/transforms-3/080e27757a1f48c83fbd249173702ca9/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/dealhack/.gradle/caches/transforms-3/451801e5353e057bd7114c92208d786c/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/dealhack/.gradle/caches/transforms-3/24ba0631f8ea103767ecb017b82dab9c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dealhack/.gradle/caches/transforms-3/7aa2593fb0ba61cfecebd1cfd3011764/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dealhack/.gradle/caches/transforms-3/545352c2365a0320e18af876e9fd9b1f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a9c76ba31c14edb4f58d123caebe292f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dealhack/.gradle/caches/transforms-3/13c68ebc8e94bdc34366032d3ad1ce6b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/dealhack/.gradle/caches/transforms-3/3688943dc367c91d492da4b0760fe5c6/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/dealhack/.gradle/caches/transforms-3/bdfdde846ba3b81b947ecac71ec13fc2/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dealhack/.gradle/caches/transforms-3/8e31dd616bc890f0ab14beafc4b304ac/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dealhack/.gradle/caches/transforms-3/ffdb4259cdbf373eb9414c3f92d48abc/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dealhack/.gradle/caches/transforms-3/784a7117bda59883630aacedd1ec4b16/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:4:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.INTERNET
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:10:5-87
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:10:22-84
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:11:22-74
+application
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:13:5-47:19
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:13:5-47:19
+MERGED from [com.google.android.material:material:1.11.0] /home/dealhack/.gradle/caches/transforms-3/f00623dbf6f5851fa01661ba258ac9d9/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/dealhack/.gradle/caches/transforms-3/f00623dbf6f5851fa01661ba258ac9d9/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/dealhack/.gradle/caches/transforms-3/54586c3fd6e4cdaaa619be7b4633c87f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/dealhack/.gradle/caches/transforms-3/54586c3fd6e4cdaaa619be7b4633c87f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dealhack/.gradle/caches/transforms-3/13c68ebc8e94bdc34366032d3ad1ce6b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dealhack/.gradle/caches/transforms-3/13c68ebc8e94bdc34366032d3ad1ce6b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:19:9-50
+	android:usesCleartextTraffic
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:20:9-44
+activity#com.smsforwarder.MainActivity
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:exported
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:27:27-74
+service#com.smsforwarder.SmsForwarderService
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:31:9-36:56
+	android:enabled
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:33:13-35
+	android:exported
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:34:13-37
+	android:stopWithTask
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:35:13-41
+	android:foregroundServiceType
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:32:13-48
+receiver#com.smsforwarder.SmsReceiver
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:38:9-45:20
+	android:exported
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:39:13-40
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:42:13-44:29
+	android:priority
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:42:28-50
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:43:17-82
+	android:name
+		ADDED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml:43:25-79
+uses-sdk
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] /home/dealhack/.gradle/caches/transforms-3/c1d2a236b741873f3a73d36ef2c882af/transformed/viewbinding-8.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] /home/dealhack/.gradle/caches/transforms-3/c1d2a236b741873f3a73d36ef2c882af/transformed/viewbinding-8.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/dealhack/.gradle/caches/transforms-3/f00623dbf6f5851fa01661ba258ac9d9/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/dealhack/.gradle/caches/transforms-3/f00623dbf6f5851fa01661ba258ac9d9/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/dealhack/.gradle/caches/transforms-3/54586c3fd6e4cdaaa619be7b4633c87f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/dealhack/.gradle/caches/transforms-3/54586c3fd6e4cdaaa619be7b4633c87f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/dealhack/.gradle/caches/transforms-3/0e4b87110de3748f8a89a0ba33c8bd36/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/dealhack/.gradle/caches/transforms-3/0e4b87110de3748f8a89a0ba33c8bd36/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/dealhack/.gradle/caches/transforms-3/c7556cb60140854d7a35290cdfa31b30/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/dealhack/.gradle/caches/transforms-3/c7556cb60140854d7a35290cdfa31b30/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/dealhack/.gradle/caches/transforms-3/023a2724f30c914043fd29d759a27f4f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/dealhack/.gradle/caches/transforms-3/023a2724f30c914043fd29d759a27f4f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a8fcabdc6c819027bce712389edb3564/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a8fcabdc6c819027bce712389edb3564/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/dealhack/.gradle/caches/transforms-3/cc75ed66ebaff2d0e9bc26739e887795/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/dealhack/.gradle/caches/transforms-3/cc75ed66ebaff2d0e9bc26739e887795/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/dealhack/.gradle/caches/transforms-3/c995a71e08e61949e1f085048f643a41/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/dealhack/.gradle/caches/transforms-3/c995a71e08e61949e1f085048f643a41/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/dealhack/.gradle/caches/transforms-3/d3c49ea6cbaeab2a1f2c5d185499eeaf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/dealhack/.gradle/caches/transforms-3/d3c49ea6cbaeab2a1f2c5d185499eeaf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dealhack/.gradle/caches/transforms-3/5982eddde742efd5a098c076398e7883/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dealhack/.gradle/caches/transforms-3/5982eddde742efd5a098c076398e7883/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a48100704f933a4aaed26096e55815e1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a48100704f933a4aaed26096e55815e1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d4ce974795c6e5ee90e19b34485af992/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d4ce974795c6e5ee90e19b34485af992/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dealhack/.gradle/caches/transforms-3/ec09efcd2cfb94f0dc9e564d00965f7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dealhack/.gradle/caches/transforms-3/ec09efcd2cfb94f0dc9e564d00965f7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dealhack/.gradle/caches/transforms-3/57495068ffdfa6eeeef43c48914bcc71/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dealhack/.gradle/caches/transforms-3/57495068ffdfa6eeeef43c48914bcc71/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dealhack/.gradle/caches/transforms-3/d2e2acf89270599e0a4655b5b23302c2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dealhack/.gradle/caches/transforms-3/d2e2acf89270599e0a4655b5b23302c2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dealhack/.gradle/caches/transforms-3/64251acf4ef4f95d22b4529e6840dbce/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dealhack/.gradle/caches/transforms-3/64251acf4ef4f95d22b4529e6840dbce/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dealhack/.gradle/caches/transforms-3/9f17e86a37ef9ec49afdd5cb298a514c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dealhack/.gradle/caches/transforms-3/9f17e86a37ef9ec49afdd5cb298a514c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dealhack/.gradle/caches/transforms-3/f9928dd2a91699c5162758639050f526/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dealhack/.gradle/caches/transforms-3/f9928dd2a91699c5162758639050f526/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/dealhack/.gradle/caches/transforms-3/82f07b935aff9428a5ed933519326cce/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/dealhack/.gradle/caches/transforms-3/82f07b935aff9428a5ed933519326cce/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/dealhack/.gradle/caches/transforms-3/377c1b849c228f276db6cc263b4f4917/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/dealhack/.gradle/caches/transforms-3/377c1b849c228f276db6cc263b4f4917/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/dealhack/.gradle/caches/transforms-3/9a2d3836bb83ffa79a4b0c61760c68bd/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/dealhack/.gradle/caches/transforms-3/9a2d3836bb83ffa79a4b0c61760c68bd/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6776041365c344426d0b3f6a0b7402b/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6776041365c344426d0b3f6a0b7402b/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/dealhack/.gradle/caches/transforms-3/4c96a56ac06654d895291e46532ce422/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/dealhack/.gradle/caches/transforms-3/4c96a56ac06654d895291e46532ce422/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c74aaa918d2af219289592903f5037f7/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c74aaa918d2af219289592903f5037f7/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/dealhack/.gradle/caches/transforms-3/0caa166bb19d412ad27c4a40409ea85f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/dealhack/.gradle/caches/transforms-3/0caa166bb19d412ad27c4a40409ea85f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/dealhack/.gradle/caches/transforms-3/11182a2495ffabe5e2622fbdd1c0178e/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/dealhack/.gradle/caches/transforms-3/11182a2495ffabe5e2622fbdd1c0178e/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/dealhack/.gradle/caches/transforms-3/080e27757a1f48c83fbd249173702ca9/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/dealhack/.gradle/caches/transforms-3/080e27757a1f48c83fbd249173702ca9/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/dealhack/.gradle/caches/transforms-3/451801e5353e057bd7114c92208d786c/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/dealhack/.gradle/caches/transforms-3/451801e5353e057bd7114c92208d786c/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/dealhack/.gradle/caches/transforms-3/24ba0631f8ea103767ecb017b82dab9c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/dealhack/.gradle/caches/transforms-3/24ba0631f8ea103767ecb017b82dab9c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dealhack/.gradle/caches/transforms-3/7aa2593fb0ba61cfecebd1cfd3011764/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dealhack/.gradle/caches/transforms-3/7aa2593fb0ba61cfecebd1cfd3011764/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dealhack/.gradle/caches/transforms-3/545352c2365a0320e18af876e9fd9b1f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dealhack/.gradle/caches/transforms-3/545352c2365a0320e18af876e9fd9b1f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a9c76ba31c14edb4f58d123caebe292f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dealhack/.gradle/caches/transforms-3/a9c76ba31c14edb4f58d123caebe292f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dealhack/.gradle/caches/transforms-3/13c68ebc8e94bdc34366032d3ad1ce6b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dealhack/.gradle/caches/transforms-3/13c68ebc8e94bdc34366032d3ad1ce6b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/dealhack/.gradle/caches/transforms-3/3688943dc367c91d492da4b0760fe5c6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/dealhack/.gradle/caches/transforms-3/3688943dc367c91d492da4b0760fe5c6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/dealhack/.gradle/caches/transforms-3/bdfdde846ba3b81b947ecac71ec13fc2/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/dealhack/.gradle/caches/transforms-3/bdfdde846ba3b81b947ecac71ec13fc2/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dealhack/.gradle/caches/transforms-3/8e31dd616bc890f0ab14beafc4b304ac/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dealhack/.gradle/caches/transforms-3/8e31dd616bc890f0ab14beafc4b304ac/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dealhack/.gradle/caches/transforms-3/ffdb4259cdbf373eb9414c3f92d48abc/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dealhack/.gradle/caches/transforms-3/ffdb4259cdbf373eb9414c3f92d48abc/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dealhack/.gradle/caches/transforms-3/784a7117bda59883630aacedd1ec4b16/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dealhack/.gradle/caches/transforms-3/784a7117bda59883630aacedd1ec4b16/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dealhack/Desktop/Scripts/sms/android-client/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/dealhack/.gradle/caches/transforms-3/0bb45f7381ef633335f5030d97c338d2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/dealhack/.gradle/caches/transforms-3/d0f8d4e2a6450cc2d34c11f89fe23e30/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.smsforwarder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.smsforwarder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/dealhack/.gradle/caches/transforms-3/4bb07ff4fd244f2b5e6e748600c19591/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/dealhack/.gradle/caches/transforms-3/c6869c3cb51db7149437f4e2fc52ad4d/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/dealhack/.gradle/caches/transforms-3/c112b07b346ff52550fee39f4471ee17/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
