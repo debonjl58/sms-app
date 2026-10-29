@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tagala_black">#FF000000</color>
+    <color name="tagala_gold">#FFFFC33D</color>
+    <color name="tagala_white">#FFFFFFFF</color>
+    <color name="tagala_button_disabled">#FF6A6A6A</color>
+    <color name="tagala_button_text_disabled">#FFD8D8D8</color>
+</resources>
