@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Tagala.DisabledButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:alpha">0.62</item>
+        <item name="backgroundTint">@color/tagala_button_disabled</item>
+        <item name="android:textColor">@color/tagala_button_text_disabled</item>
+        <item name="cornerRadius">18dp</item>
+    </style>
+</resources>
